@@ -9,6 +9,7 @@ https://www.kaggle.com/shivam2503/diamonds
 
 # Files and their functions
 ## Final report - 
+Diamond Analysis.pdf
 ## Statistical analysis and Data cleaning -
 notebook.ipynb
 ## Statistical analysis and Data cleaning -
